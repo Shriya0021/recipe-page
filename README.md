@@ -1,1 +1,1 @@
-First Frontend Mentor challenge# recipe-page
+First Frontend Mentor challenge
